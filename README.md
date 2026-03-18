@@ -20,3 +20,13 @@ This repository contains my daily practice of Data Structures & Algorithms from 
 ---
 
 ## 🗂️ Folder Structure
+
+Arrays/
+Strings/
+LinkedList/
+Trees/
+Graphs/
+DP/
+HackerRank/
+Contests/
+Notes/
