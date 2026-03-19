@@ -11,22 +11,8 @@ This repository contains my daily practice of Data Structures & Algorithms from 
 
 ---
 
-## 📌 Platforms
-- LeetCode  
-- HackerRank  
-- Codeforces  
-- CodeChef  
+## Custom try (in Python)
+- 1. second largest element in the array
 
 ---
 
-## 🗂️ Folder Structure
-
-Arrays/
-Strings/
-LinkedList/
-Trees/
-Graphs/
-DP/
-HackerRank/
-Contests/
-Notes/
