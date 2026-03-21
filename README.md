@@ -13,6 +13,9 @@ This repository contains my daily practice of Data Structures & Algorithms from 
 
 ## Custom try (in Python)
 - 1. second largest element in the array
-
+- 2. K rotation through in array
+- 3. Palindrome checker
+- 4. Frequency character checker
+- 5. Duplicates in array 
 ---
 
