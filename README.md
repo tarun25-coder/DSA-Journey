@@ -7,7 +7,7 @@
 ---
 
 ## 🧠 About This Repository
-This repository contains my daily practice of Data Structures & Algorithms from platforms like LeetCode, HackerRank, Codeforces, and CodeChef.
+This repository contains my daily practice of Data Structures & Algorithms from platforms like LeetCode, HackerRank, Codeforces, and CodeChef and also notes for beginners to learn dsa.
 
 ---
 
