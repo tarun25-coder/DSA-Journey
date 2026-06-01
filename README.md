@@ -23,5 +23,6 @@ This is helpful for everyone who wants to learn DSA from scratch
 - 8. Prime numbers approach through sieve function further aided to Goldbach and twin numbers
 - 9. Armstrong number
 - 10. Perfect number
+- 11. Two Sum
 ---
 
